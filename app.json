@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "ScholarSpot",
+    "slug": "scholarspot",
+    "description": "Scholarship & Financial Assistance Finder – works fully offline.",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1E3A8A"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.scholarspot.app"
+    },
+    "android": {
+      "package": "com.scholarspot.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#1E3A8A"
+      }
+    },
+    "web": {}
+  }
+}
